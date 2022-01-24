@@ -1,0 +1,56 @@
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+    margin: 0;
+    background-image: url(pic/dropdown_bg.jpg);
+}
+
+header {
+    background-image: url(pic/covid19.jpg);
+    padding: 200px;
+    text-align: center;
+    font-size: 50px;
+    color: white;
+}
+
+* {
+    box-sizing: border-box;
+  }
+
+.content p{
+    width: 850px;
+}
+
+.content{
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+h2 {
+    text-align: left;
+}
+
+
+footer {
+    background-color:black;
+    padding: 1px;
+    text-align: center;
+    font-size: 15px;
+    color: white;
+}
+
+.content .list-group{
+    width: 800px;
+}
+
+.content .list-group .finish-item{
+    background-color: rgb(238, 237, 195);
+}
+
+.content .list-group .tech{
+    width: 300px;
+    background-color: rgb(238, 237, 195);
+}
+
+.progress{
+    width: 200px;
+}
